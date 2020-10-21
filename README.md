@@ -1,1 +1,1 @@
-# heart-disease-with-pandas
+# Heart-disease-with-pandas
